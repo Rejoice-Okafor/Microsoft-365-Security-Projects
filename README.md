@@ -6,28 +6,20 @@ Overview
 
 This collection covers key areas within Microsoft 365 Security and Compliance, including:
 
-Microsoft Intune – Device compliance, configuration profiles, and endpoint security baselines
+- Microsoft Intune – Device compliance, configuration profiles, and endpoint security baselines
 
-Microsoft Defender for Endpoint – Threat detection, response, and vulnerability management
+- Microsoft Defender for Endpoint – Threat detection, response, and vulnerability management
 
-Microsoft Defender for Office 365 – Protection against phishing, malware, and advanced threats
+- Microsoft Defender for Office 365 – Protection against phishing, malware, and advanced threats
 
-Microsoft Defender for Cloud Apps – App governance, session controls, and shadow IT discovery
+- Microsoft Defender for Cloud Apps – App governance, session controls, and shadow IT discovery
 
-Microsoft Purview – Data Loss Prevention (DLP), Information Protection, and Compliance Portal setup
+- Microsoft Purview – Data Loss Prevention (DLP), Information Protection, and Compliance Portal setup
 
-Insider Risk Management – Policy configuration, alerts, and case investigation workflows
+- Insider Risk Management – Policy configuration, alerts, and case investigation workflows
 
-Security Baseline & Documentation – Configuration reviews, SoWs, and compliance mapping
+- Security Baseline & Documentation – Configuration reviews, SoWs, and compliance mapping
 Objectives
-
-Implement a unified Zero Trust security model across Microsoft 365 workloads
-
-Ensure alignment with APRA CPS 234, ISO 27001, and SOC 2 compliance frameworks
-
-Provide audit-ready documentation for regulated industries
-
-Support continuous improvement through automation, monitoring, and reporting
 
 Please click on each repository for detailed documentation and security implementations.
 
