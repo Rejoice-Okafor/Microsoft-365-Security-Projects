@@ -30,7 +30,6 @@ Please click on each linked repository for detailed configurations, deployment s
 - [Defender for Office 365 Setup](https://github.com/Rejoice-Okafor/defender-for-office365)
 - [Defender for Cloud Apps Governance](https://github.com/Rejoice-Okafor/defender-for-cloud-apps)
 - [Purview DLP & Information Protection](https://github.com/Rejoice-Okafor/purview-dlp)
-- [Insider Risk Management Deployment](https://github.com/Rejoice-Okafor/insider-risk-management)
 
 
 How to Use This Repository
