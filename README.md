@@ -14,8 +14,6 @@ This collection covers key areas within Microsoft 365 Security and Compliance, i
 
 - Microsoft Defender for Cloud Apps – App governance, session controls, and shadow IT discovery
 
-- Microsoft Purview – Data Loss Prevention (DLP), Information Protection, and Compliance Portal setup
-
 - Insider Risk Management – Policy configuration, alerts, and case investigation workflows
 
 - Security Baseline & Documentation – Configuration reviews, SoWs, and compliance mapping
