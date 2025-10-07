@@ -21,12 +21,7 @@ This collection covers key areas within Microsoft 365 Security and Compliance, i
 - Security Baseline & Documentation – Configuration reviews, SoWs, and compliance mapping
 Objectives
 
-Please click on each repository for detailed documentation and security implementations.
-
-# Microsoft 365 Security Projects
-
-This repository documents my end-to-end Microsoft 365 security implementations across Intune, Microsoft Defender, and Microsoft Purview solutions.  
-Each linked repository contains configurations, deployment steps, governance rules, and documentation folders for audit readiness.
+Please click on each linked repository for detailed configurations, deployment steps, governance rules, and documentation folders for audit readiness.
 
 ## Repositories
 
