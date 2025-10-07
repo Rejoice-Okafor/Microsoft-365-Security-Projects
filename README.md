@@ -21,9 +21,9 @@ Objectives
 
 Please click on each linked repository for detailed configurations, deployment steps, governance rules, and documentation folders for audit readiness.
 
-## Repositories
+## Repositories 
 
-- [Intune Device Compliance & Security Baselines](https://github.com/Rejoice-Okafor/intune-device-compliance)
+- [Intune Device Compliance & Security Baselines](intune-device-compliance )
 - [Defender for Endpoint Configuration](https://github.com/Rejoice-Okafor/defender-for-endpoint)
 - [Defender for Office 365 Setup](https://github.com/Rejoice-Okafor/defender-for-office365)
 - [Defender for Cloud Apps Governance](https://github.com/Rejoice-Okafor/defender-for-cloud-apps)
