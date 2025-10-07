@@ -24,10 +24,10 @@ Please click on each linked repository for detailed configurations, deployment s
 ## Repositories 
 
 - [Intune Device Compliance & Security Baselines](intune-device-compliance )
-- [Defender for Endpoint Configuration](https://github.com/Rejoice-Okafor/defender-for-endpoint)
-- [Defender for Office 365 Setup](https://github.com/Rejoice-Okafor/defender-for-office365)
-- [Defender for Cloud Apps Governance](https://github.com/Rejoice-Okafor/defender-for-cloud-apps)
-- [Purview DLP & Information Protection](https://github.com/Rejoice-Okafor/purview-dlp)
+- [Defender for Endpoint Configuration](defender-for-endpoint)
+- [Defender for Office 365 Setup](defender-for-office365)
+- [Defender for Cloud Apps Governance](defender-for-cloud-apps)
+- [Purview DLP & Information Protection](purview-dlp)
 
 
 How to Use This Repository
